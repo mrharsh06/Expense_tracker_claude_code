@@ -1,0 +1,1 @@
+Add two links to the footer in @templates/base.html:
