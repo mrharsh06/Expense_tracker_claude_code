@@ -25,3 +25,6 @@ Data Storage, Third Party Services, and Contact Us.
 Match the style of terms.html.
 3. In @templates/landing.html, update the "Privacy Policy"
 footer link href from "#" to "/privacy".
+
+git commit -m "landing: add privacy policy page and route”
+
